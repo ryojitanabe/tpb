@@ -49,5 +49,5 @@ $ python optuna_bbob.py
 First, you need to copy all Matlab files in [the example](https://github.com/numbbo/coco/tree/master/code-experiments/build/matlab) to your PlatEMO code in [this directory](https://github.com/BIMK/PlatEMO/tree/master/PlatEMO). Then, you need to copy ``dummyFun.m``, ``dummyFun1.m``, ``dummyFun2.m``, and ``platemo_bbob.py`` to the same directory. The use of the PlatEMO code in the COCO software require a trick as in ``dummyFun.m``, ``dummyFun1.m``, and ``dummyFun2.m``. The following command runs K-RVEA on the 55 bi-objective TPB problems. Of course, you can run the code on the GUI environment.
 
 ```
-$ matlab -batch platemo_bbob.py
+$ matlab -batch platemo_bbob.m
 ```
