@@ -2,7 +2,7 @@
 
 This repository provides the code to reproduce results shown in the following paper.
 
-> Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada, **A Two-phase Framework with a Bezier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization**, accepted for [GECCO2022](https://gecco-2022.sigevo.org)
+> Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada, **A Two-phase Framework with a Bezier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization**, accepted for [GECCO2022](https://gecco-2022.sigevo.org), [pdf](https://arxiv.org/abs/2203.15292)
 
 The code highly depends on the COCO software:
 
